@@ -1,0 +1,12 @@
+.bi-cart {
+    font-size: 1.5rem; /* Cambia el tamaño según tus necesidades */
+    margin-right: 5px; /* Espacio entre el ícono y el texto */
+}
+#Nombre{
+  background-color: white;
+  color: black;
+  width: 220px;
+  height: 40px;
+  text-align: center;
+}
+  
